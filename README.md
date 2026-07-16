@@ -22,20 +22,6 @@ npm run dev
 
 Then open the URL shown in the terminal (by default http://localhost:5173). The page reloads automatically as you edit files.
 
-## Production build
-
-Create an optimized build in the `dist/` folder:
-
-```bash
-npm run build
-```
-
-Preview that production build locally:
-
-```bash
-npm run preview
-```
-
 ## Project structure
 
 ```
